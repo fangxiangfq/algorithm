@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态规划", "动态规划\动态规划.vcxproj", "{106E81F7-D614-40E3-9336-D8B785E05ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Debug|x64.ActiveCfg = Debug|x64
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Debug|x64.Build.0 = Debug|x64
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Debug|x86.ActiveCfg = Debug|Win32
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Debug|x86.Build.0 = Debug|Win32
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Release|x64.ActiveCfg = Release|x64
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Release|x64.Build.0 = Release|x64
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Release|x86.ActiveCfg = Release|Win32
+		{106E81F7-D614-40E3-9336-D8B785E05ABB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C119BA-ADC7-48CE-8060-B97CF4376A01}
+	EndGlobalSection
+EndGlobal
