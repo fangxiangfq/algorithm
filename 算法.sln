@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS-水壶问题", "BFS-水
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基础-数组的排序", "基础-数组的排序\基础-数组的排序.vcxproj", "{B76D707C-7FA4-4BE3-9092-3604FFFA1175}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二分-最大等分长度", "二分-最大等分长度\二分-最大等分长度.vcxproj", "{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{B76D707C-7FA4-4BE3-9092-3604FFFA1175}.Release|x64.Build.0 = Release|x64
 		{B76D707C-7FA4-4BE3-9092-3604FFFA1175}.Release|x86.ActiveCfg = Release|Win32
 		{B76D707C-7FA4-4BE3-9092-3604FFFA1175}.Release|x86.Build.0 = Release|Win32
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Debug|x64.ActiveCfg = Debug|x64
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Debug|x64.Build.0 = Debug|x64
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Debug|x86.Build.0 = Debug|Win32
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Release|x64.ActiveCfg = Release|x64
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Release|x64.Build.0 = Release|x64
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Release|x86.ActiveCfg = Release|Win32
+		{0EBC0F8B-8883-4A41-8EAA-FB1F07CE7A81}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
